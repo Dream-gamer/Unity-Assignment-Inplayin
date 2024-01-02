@@ -1,0 +1,64 @@
+{
+	"session": [
+		{
+			"number": 1,
+			"duration": 10,
+			"caloriesBurnt": 70,
+			"distance": 3.5
+		},
+		{
+			"number": 2,
+			"duration": 15,
+			"caloriesBurnt": 105,
+			"distance": 5
+		},
+		{
+			"number": 3,
+			"duration": 45,
+			"caloriesBurnt": 230,
+			"distance": 16
+		},
+		{
+			"number": 4,
+			"duration": 60,
+			"caloriesBurnt": 300,
+			"distance": 20
+		},
+		{
+			"number": 5,
+			"duration": 25,
+			"caloriesBurnt": 150,
+			"distance": 10
+		},
+		{
+			"number": 6,  
+			"duration": 35,
+			"caloriesBurnt": 210,
+			"distance": 14
+		},
+		{
+			"number": 7,
+			"duration": 40,
+			"caloriesBurnt": 240,
+			"distance": 16  
+		},
+		{
+			"number": 8,
+			"duration": 50,
+			"caloriesBurnt": 290,
+			"distance": 18
+		},
+		{
+			"number": 9,
+			"duration": 55,
+			"caloriesBurnt": 330,
+			"distance": 22
+		},
+		{
+			"number": 10,
+			"duration": 25,
+			"caloriesBurnt": 150,
+			"distance": 9
+		}
+	]
+}
